@@ -1,0 +1,26 @@
+[
+    {
+        "title": "블로그 포스팅 생성기",
+        "content": "너는 전문 카피라이터야. [주제]에 대해 독자의 흥미를 끌 수 있는 서론, 유익한 정보가 담긴 본론, 그리고 생각을 남기는 결론으로 구성된 블로그 포스트를 작성해줘. 톤앤매너는 친절하고 전문적이어야 해.",
+        "category": "텍스트 생성",
+        "favorite": true
+    },
+    {
+        "title": "사이버펑크 스타일 이미지",
+        "content": "Cyberpunk city street, neon lights, rainy night, cinematic lighting, 8k resolution, highly detailed, futuristic architecture, vibrant colors, unreal engine 5 render.",
+        "category": "이미지 생성",
+        "favorite": false
+    },
+    {
+        "title": "파이썬 학습 튜터",
+        "content": "너는 초보자를 위한 파이썬 튜터야. 어려운 프로그래밍 개념을 일상생활의 비유를 들어서 설명해주고, 학습자가 직접 따라 할 수 있는 간단한 코드 예제를 항상 포함해줘.",
+        "category": "페르소나",
+        "favorite": true
+    },
+    {
+        "title": "유튜브 스크립트 자동화",
+        "content": "특정 주제에 대해 5분 내외의 유튜브 영상 스크립트를 작성해줘. 오프닝 훅, 핵심 내용 3가지, 구독 요청을 포함한 클로징으로 구성해줘.",
+        "category": "자동화",
+        "favorite": true
+    }
+]
